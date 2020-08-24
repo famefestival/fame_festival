@@ -2,8 +2,22 @@
 @import url('https://fonts.googleapis.com/css?family=Nunito:400,700|Work+Sans:400,700&display=swap');
 
 // Define fonts for body and headers
-$body-font: "Work Sans", "Helvetica", "sans-serif";
 $headers-font: "Nunito", "Helvetica", "sans-serif";
+$body-font: "Work Sans", "Helvetica", "sans-serif";
+
+
+@font-face {
+  font-family: "Northen";
+  src: font-url('northen.ttf') format('truetype');
+}
+$northen-font: "Northen";
+
+@font-face {
+  font-family: "Holiday";
+  src: font-url('HolidayFree.otf');
+}
+$holiday-font: "Holiday";
+
 
 // To use a font file (.woff) uncomment following lines
 // @font-face {
