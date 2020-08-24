@@ -11,3 +11,8 @@
 // Your CSS partials
 @import "components/index";
 @import "pages/index";
+
+// Website default CSS
+h1 {
+  font-family: $northen-font;
+}
