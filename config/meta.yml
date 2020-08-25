@@ -1,5 +1,5 @@
 meta_product_name: "F.A.M.E Festival"
-meta_title: "F.A.M.E Festival - #food #art #music & #environnement"
-meta_description: "Relevant description"
-# meta_image: "cover.png" # should exist in `app/assets/images/`
+meta_title: "F.A.M.E - #food #art #music & #environnement"
+meta_description: "F.A.M.E. DEDICATED TO FOOD, ART, MUSIC & ENVIRONMENT are festivals, gatherings & pop ups organized in Barbados !"
+meta_image: "meta_image.png" # should exist in `app/assets/images/`
 # twitter_account: "@product_twitter_account"   # required for Twitter Cards
